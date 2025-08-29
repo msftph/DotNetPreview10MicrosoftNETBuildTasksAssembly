@@ -1,0 +1,1 @@
+# Repo to reproduce load order bug in .net preview 10.7
